@@ -17,6 +17,7 @@ namespace WebApplication7
         protected void Button1_Click(object sender, EventArgs e)
         {
             int r;
+            int a;
             
             int i = Convert.ToInt32(Txtfirstnumber.Text);
             int j = Convert.ToInt32(Txtsecondnumber.Text);
