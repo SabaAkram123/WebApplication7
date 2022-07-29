@@ -44,7 +44,7 @@ namespace WebApplication7
             }
             else
             {
-                Tresult.Text = "invalid operator";
+                Tresult.Text = "do not valid";
             }
         }
     }
